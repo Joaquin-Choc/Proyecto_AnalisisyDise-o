@@ -716,7 +716,7 @@ body::before {
 }
 
 .filtro-select:hover {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: #FAFAFA;
 }
 
 .filtro-select:focus {
